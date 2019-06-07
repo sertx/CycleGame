@@ -5,19 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "HoudiniNiagara",
-			"Enabled": true
-		},
-		{
 			"Name": "Niagara",
 			"Enabled": true
 		},
 		{
 			"Name": "NiagaraExtras",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniNiagara",
 			"Enabled": true
 		},
 		{
@@ -33,7 +25,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "HoudiniEngine",
+			"Name": "HoudiniNiagara",
 			"Enabled": true
 		}
 	]
