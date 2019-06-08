@@ -5,27 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Niagara",
-			"Enabled": true
-		},
-		{
-			"Name": "NiagaraExtras",
-			"Enabled": true
-		},
-		{
-			"Name": "Niagara",
-			"Enabled": true
-		},
-		{
-			"Name": "NiagaraExtras",
-			"Enabled": true
-		},
-		{
 			"Name": "FMODStudio",
 			"Enabled": true
 		},
 		{
-			"Name": "HoudiniNiagara",
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		},
 		{
