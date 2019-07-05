@@ -9,3 +9,4 @@ Content/Maps/Levels/LightScenarios/SCENARIO_Settore.umap filter=lfs diff=lfs mer
 Content/Maps/Levels/LightScenarios/SCENARIO_Anticamera_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Maps/Levels/LightScenarios/SCENARIO_Arena_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Maps/Levels/LightScenarios/SCENARIO_Settore_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Movies/OutroRender_005.mp4 filter=lfs diff=lfs merge=lfs -text
